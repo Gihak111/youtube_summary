@@ -1,4 +1,6 @@
-# youtube_summary  
+## youtube_summary  
 
-Take the subtitles from YouTube and summarize them.  
-If there are no subtitles, an error will appear and a warning log will appear along with the output.  
+유튜브 영상을 요약해 주는 Ai 활용 사이트 이다.  
+
+유튜브 API를 활용해 영상에 포함되어있는 자막을 가지고 와서,  
+요약 파이프라인을 통해서 영상의 내용을 요약한다.  
